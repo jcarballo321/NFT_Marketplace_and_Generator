@@ -1,0 +1,19 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE4.png",
+    "tokenId": 4,
+    "name": "Project 3 - NFT4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Circle",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Square",
+            "value": "Blue"
+        }
+    ]
+}
