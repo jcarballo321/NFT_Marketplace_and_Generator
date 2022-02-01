@@ -1,4 +1,4 @@
-# Project_3
+# NFT_Marketplace_and_ Generator
 
 # Introduction
 
