@@ -2,7 +2,8 @@
 
 # Introduction
 
-The goal of this project was to create a NFT market place that housed a NFT generator which incorporated our own tokens. We called this Picasso. Picasso's original concept included a token that would allow users to buy, sell and create their own NFTs. The below read me spells out the procedure of the NFT generation as well as marketplace creation process, the challenges we faced and our future plans to enhance Picasso. 
+The goal of this project was to create a NFT market place that housed a NFT generator which incorporated our own tokens. We called this Picasso. Picasso's original concept included a token that would allow users to buy, sell and create their own NFTs. 
+This read me spells out the procedure of NFT generation as well as marketplace creation process, the challenges we faced and our future plans to enhance Picasso. 
 
 # Procedure
 
@@ -45,7 +46,7 @@ The link for the full pic generation can be found under
 
 
 
-## Creation of market place
+## Creation of Market Place
 
 The .sol file that created the market place can be found under
 
@@ -55,7 +56,7 @@ The .sol file that created the market place can be found under
 
 # Challenges
 
-    Our biggest challenge  was really to incorporate all the technologies neccessary to create a robust market place that incorporated all our ideas. 
+Our biggest challenge  was really to incorporate all the technologies neccessary to create a robust market place that incorporated all our ideas. 
 
 
 # Technology 
@@ -76,9 +77,11 @@ The .sol file that created the market place can be found under
 - JavaScript
 - Open zeppelin
 - Tokenonmics
-- Hard hat
+- Hard Hat
 
 # Conclusion/Future Plans
 
 During this project we learned a lot about several technologies as well as the process of creating the market place which will be the future. 
-Our future plans can be divided into two aspects. We would like to enhance the features on the NFT
+Our future plans can be divided into two aspects: 
+1. I would like to enhance the features and capabilities of the NFT generator. 
+2. I would like to further flesh out the Marketplace. 
