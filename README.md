@@ -81,7 +81,7 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 
 # Visualizations
 
-![Marketplace code Example 1](C:\Users\jcarb\Documents\Repos\NFT_Marketplace_and_Generator\PP.JPG)
+![Marketplace code Example 1](PP.JPG)
 
 # Conclusion/Future Plans
 
