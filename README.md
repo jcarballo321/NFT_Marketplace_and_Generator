@@ -79,6 +79,10 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 - Tokenonmics
 - Hard Hat
 
+# Visualizations
+
+<img src="NFT_Marketplace_and_Generator/PP.JPG">
+
 # Conclusion/Future Plans
 
 During this project we learned a lot about several technologies as well as the process of creating the market place which will be the future. 
