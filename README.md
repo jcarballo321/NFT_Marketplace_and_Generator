@@ -81,7 +81,7 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 
 # Visualizations
 
-<img src="NFT_Marketplace_and_Generator/PP.JPG">
+![Marketplace code Example 1](NFT_Marketplace_and_Generator\PP.JPG)
 
 # Conclusion/Future Plans
 
