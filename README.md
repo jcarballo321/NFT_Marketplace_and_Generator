@@ -82,6 +82,15 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 # Visualizations
 
 ![Marketplace code Example 1](PP.JPG)
+![Marketplace code Example 2](PP1.JPG)
+![Marketplace code Example 3](PP2.JPG)
+![Marketplace code Example 4](PP3.JPG)
+![Marketplace code Example 5](PP4.JPG)
+![Marketplace code Example 6](PP5.JPG)
+![Marketplace code Example 7](PP6.JPG)
+![Marketplace code Example 8](PP7.JPG)
+![Marketplace code Example 9](PP8.JPG)
+![Marketplace code Example 10](PP9.JPG)
 
 # Conclusion/Future Plans
 
