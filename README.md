@@ -70,9 +70,10 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 ## Other Technology
 - Jupyter Lab
 - Power shell
-- NexJS polygon
+- Node.JS 
+- Polygon
 - Metamask
-- Web3modal
+- Web3.modal
 - Solidity
 - JavaScript
 - Open zeppelin
