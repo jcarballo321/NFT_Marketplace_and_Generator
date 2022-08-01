@@ -73,7 +73,7 @@ Our biggest challenge  was really to incorporate all the technologies neccessary
 - NexJS polygon
 - Metamask
 - Web3modal
-- Solidarity
+- Solidity
 - JavaScript
 - Open zeppelin
 - Tokenonmics
